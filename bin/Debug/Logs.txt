@@ -1,0 +1,15 @@
+10/8/2021 2:51:29 AM | INFO | Checking weather conditions for Delhi
+10/8/2021 2:51:29 AM | DEBUG | Requesting response from URL: http://api.openweathermap.org/data/2.5/weather?q=Delhi&units=metric&appid=fe2b4d56085d97e6005044b62be0231c
+10/8/2021 2:51:44 AM | INFO | Checking weather conditions for Chandigarh
+10/8/2021 2:51:44 AM | DEBUG | Requesting response from URL: http://api.openweathermap.org/data/2.5/weather?q=Chandigarh&units=metric&appid=fe2b4d56085d97e6005044b62be0231c
+10/8/2021 2:51:58 AM | INFO | Checking weather conditions for Indore
+10/8/2021 2:51:58 AM | DEBUG | Requesting response from URL: http://api.openweathermap.org/data/2.5/weather?q=Indore&units=metric&appid=fe2b4d56085d97e6005044b62be0231c
+10/8/2021 2:52:12 AM | INFO | Checking weather conditions for Mumbai
+10/8/2021 2:52:12 AM | DEBUG | Requesting response from URL: http://api.openweathermap.org/data/2.5/weather?q=Mumbai&units=metric&appid=fe2b4d56085d97e6005044b62be0231c
+10/8/2021 2:52:26 AM | INFO | Checking weather conditions for Kolkata
+10/8/2021 2:52:26 AM | DEBUG | Requesting response from URL: http://api.openweathermap.org/data/2.5/weather?q=Kolkata&units=metric&appid=fe2b4d56085d97e6005044b62be0231c
+10/8/2021 2:52:39 AM | INFO | Checking weather conditions for Newyork
+10/8/2021 2:52:39 AM | DEBUG | Requesting response from URL: http://api.openweathermap.org/data/2.5/weather?q=Newyork&units=metric&appid=fe2b4d56085d97e6005044b62be0231c
+10/8/2021 2:52:39 AM | ERROR | Newyork could not be found in database of WebAPI
+10/8/2021 2:52:39 AM | INFO | Checking weather conditions for Texas
+10/8/2021 2:52:39 AM | DEBUG | Requesting response from URL: http://api.openweathermap.org/data/2.5/weather?q=Texas&units=metric&appid=fe2b4d56085d97e6005044b62be0231c
