@@ -1,1 +1,1 @@
-# WeatherComparer
+User needs to Clone this repo and Run BlueStacksAssignment.exe to compare weather temperatures of given City Names in input.json file with Variance tolerance as mentioned in json file. City Name and Variance can be configured as per user needs.
